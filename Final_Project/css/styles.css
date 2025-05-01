@@ -52,7 +52,7 @@ img {
 
     nav li a:hover {
         background-color: #F2CE16;
-        width: 250;
+        width: 250px;
      }
 
     main {
@@ -64,7 +64,7 @@ img {
         color: #F2CE16;
         text-shadow: 1px 1px 1px #000;
         font-family: "Oswald", sans-serif;
-  font-optical-sizing: auto;
+  
   font-weight: 700;
   font-style: normal;
 
